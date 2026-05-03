@@ -1,0 +1,4 @@
+util\DefaultPatternProvider.class
+util\PatternProvider.class
+util\exceptions\EmptyStringException.class
+util\StringUtils.class
